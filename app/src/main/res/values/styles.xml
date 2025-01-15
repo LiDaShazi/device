@@ -1,0 +1,7 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- 设置全局字体 -->
+        <item name="android:fontFamily">@font/kai</item>
+    </style>
+</resources>

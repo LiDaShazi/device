@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IdentifyFragment"
+    android:background="#EEEEEE">
+
+
+    <Button
+        android:id="@+id/btn_flashlight"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="打开手电筒"
+        android:layout_centerInParent="true"
+        android:background="#00EEEEEE"
+        android:textColor="#00EEEEEE"
+        android:layout_marginTop="100dp" />
+
+    <ImageButton
+        android:id="@+id/btn_rengzheng"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/rengzheng"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"
+        android:background="#EEEEEE"/>
+
+</FrameLayout>

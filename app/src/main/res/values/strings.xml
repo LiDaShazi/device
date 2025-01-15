@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">设备管理系统</string>
+    <string name="title">设备管理系统</string>
+    <string name="left">设备认证</string>
+    <string name="right">设备管理</string>
+    <string name="llj">llj</string>
+    <string name="ghr">ghr</string>
+    <string name="sdt">手电筒</string>
+    <string name="sxt">摄像头</string>
+    <string name="a">请录入您的指纹</string>
+    <string name="b">请扫描下方二维码，并输入您的口令</string>
+
+
+</resources>
